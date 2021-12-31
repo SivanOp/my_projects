@@ -35,5 +35,5 @@ public:
 	 u3 = 9;
 	 u1 -= 3;
 	 //u3 = u1;
-	 cout << u3 << endl;
+
  }
